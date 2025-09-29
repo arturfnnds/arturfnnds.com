@@ -1,9 +1,10 @@
 # 🌐 Portfólio - Artur Fnnds
 
-[![Status](https://img.shields.io/badge/online-GitHub%20Pages-brightgreen?style=for-the-badge&logo=github)](https://arturfnnds.github.io/arturfnnds.com)
-[![Last Commit](https://img.shields.io/github/last-commit/arturfnnds/arturfnnds.com?style=for-the-badge&logo=git)](https://github.com/arturfnnds/arturfnnds.com/commits/main)
-[![Repo Size](https://img.shields.io/github/repo-size/arturfnnds/arturfnnds.com?style=for-the-badge&logo=github)](https://github.com/arturfnnds/arturfnnds.com)
-
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"/>
+</p>
 ---
 
 ## 📖 Sobre
